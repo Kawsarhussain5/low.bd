@@ -1,0 +1,123 @@
+[
+    {
+      "ID": 1,
+      "Image": "https://example.com/images/lawyer1.jpg",
+      "Name": "Advocate Hasan Mahmud",
+      "Speciality": "Criminal Law",
+      "Experience": "10 years",
+      "License_Number": "BAR-BD-1001",
+      "Fee": 5000,
+      "Availability": ["Sunday", "Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "ID": 2,
+      "Image": "https://example.com/images/lawyer2.jpg",
+      "Name": "Advocate Sara Hossain",
+      "Speciality": "Family Law",
+      "Experience": "7 years",
+      "License_Number": "BAR-BD-1002",
+      "Fee": 3500,
+      "Availability": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "ID": 3,
+      "Image": "https://example.com/images/lawyer3.jpg",
+      "Name": "Advocate Tarek Rahman",
+      "Speciality": "Corporate Law",
+      "Experience": "12 years",
+      "License_Number": "BAR-BD-1003",
+      "Fee": 8000,
+      "Availability": ["Tuesday", "Thursday", "Saturday", "Sunday"]
+    },
+    {
+      "ID": 4,
+      "Image": "https://example.com/images/lawyer4.jpg",
+      "Name": "Advocate Nusrat Jahan",
+      "Speciality": "Immigration Law",
+      "Experience": "5 years",
+      "License_Number": "BAR-BD-1004",
+      "Fee": 4000,
+      "Availability": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "ID": 5,
+      "Image": "https://example.com/images/lawyer5.jpg",
+      "Name": "Advocate Imran Kabir",
+      "Speciality": "Property Law",
+      "Experience": "9 years",
+      "License_Number": "BAR-BD-1005",
+      "Fee": 4500,
+      "Availability": ["Sunday", "Tuesday", "Thursday", "Friday"]
+    },
+    {
+      "ID": 6,
+      "Image": "https://example.com/images/lawyer6.jpg",
+      "Name": "Advocate Farhana Rahim",
+      "Speciality": "Tax Law",
+      "Experience": "6 years",
+      "License_Number": "BAR-BD-1006",
+      "Fee": 3800,
+      "Availability": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "ID": 7,
+      "Image": "https://example.com/images/lawyer7.jpg",
+      "Name": "Advocate Arifuzzaman Khan",
+      "Speciality": "Environmental Law",
+      "Experience": "11 years",
+      "License_Number": "BAR-BD-1007",
+      "Fee": 4700,
+      "Availability": ["Monday", "Wednesday", "Friday", "Sunday"]
+    },
+    {
+      "ID": 8,
+      "Image": "https://example.com/images/lawyer8.jpg",
+      "Name": "Advocate Rina Akter",
+      "Speciality": "Human Rights Law",
+      "Experience": "8 years",
+      "License_Number": "BAR-BD-1008",
+      "Fee": 4200,
+      "Availability": ["Sunday", "Tuesday", "Thursday"]
+    },
+    {
+      "ID": 9,
+      "Image": "https://example.com/images/lawyer9.jpg",
+      "Name": "Advocate Khaled Noor",
+      "Speciality": "Labour Law",
+      "Experience": "14 years",
+      "License_Number": "BAR-BD-1009",
+      "Fee": 6000,
+      "Availability": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "ID": 10,
+      "Image": "https://example.com/images/lawyer10.jpg",
+      "Name": "Advocate Sumaiya Siddique",
+      "Speciality": "Banking Law",
+      "Experience": "9 years",
+      "License_Number": "BAR-BD-1010",
+      "Fee": 5500,
+      "Availability": ["Tuesday", "Thursday", "Saturday", "Sunday"]
+    },
+    {
+      "ID": 11,
+      "Image": "https://example.com/images/lawyer11.jpg",
+      "Name": "Advocate Naimur Rahman",
+      "Speciality": "Constitutional Law",
+      "Experience": "13 years",
+      "License_Number": "BAR-BD-1011",
+      "Fee": 7000,
+      "Availability": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "ID": 12,
+      "Image": "https://example.com/images/lawyer12.jpg",
+      "Name": "Advocate Mita Sultana",
+      "Speciality": "Cyber Law",
+      "Experience": "4 years",
+      "License_Number": "BAR-BD-1012",
+      "Fee": 3900,
+      "Availability": ["Sunday", "Tuesday", "Thursday"]
+    }
+  ]
+  
